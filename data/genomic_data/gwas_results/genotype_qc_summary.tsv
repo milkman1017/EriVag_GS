@@ -1,0 +1,2 @@
+total_snps	snps_after_filters	maf_threshold	missing_threshold	mean_call_rate_before	mean_call_rate_after
+2629479	747802	0.05	0.1	1.0	1.0

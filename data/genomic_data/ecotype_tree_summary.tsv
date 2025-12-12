@@ -1,0 +1,2 @@
+total_snps	maf_threshold	snps_after_maf_filter	n_ecotypes	cophenetic_correlation	n_bootstraps	mean_bootstrap_support	median_bootstrap_support	min_bootstrap_support	max_bootstrap_support
+2629479	0.05	1979887	17	0.9053281708964784	500	96.21333333333334	100.0	81.0	100.0

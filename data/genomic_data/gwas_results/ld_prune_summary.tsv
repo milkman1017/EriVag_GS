@@ -1,0 +1,2 @@
+ld_prune_r2_threshold	ld_prune_size_variants	ld_prune_step_variants	n_snps_input	n_snps_kept
+0.2	200	20	747802	288718
