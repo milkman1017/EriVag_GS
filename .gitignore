@@ -4,3 +4,7 @@
 *.json
 *.fa
 *.gz
+*.out
+*.csi
+eriophorum_vaginatum*
+
