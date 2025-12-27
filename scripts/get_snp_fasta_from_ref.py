@@ -9,13 +9,6 @@ For each file gwas_<trait>_regions.tsv in --regions_dir, this script:
   - Writes one FASTA per trait: gwas_<trait>_regions_±window.fa
 """
 
-import os
-import argparse
-from typing import Dict
-
-import pandas as pd
-from Bio import SeqIO
-
 
 # -------------------------------
 # CONFIG DEFAULTS

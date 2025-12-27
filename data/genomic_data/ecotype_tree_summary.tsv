@@ -1,2 +1,2 @@
-total_snps	maf_threshold	snps_after_maf_filter	n_ecotypes	cophenetic_correlation	n_bootstraps	mean_bootstrap_support	median_bootstrap_support	min_bootstrap_support	max_bootstrap_support	ld_pruning_enabled	snps_after_ld_prune	ld_fraction_kept	ld_r2_pre_median	ld_r2_pre_p90	ld_r2_post_median	ld_r2_post_p90	ld_r2_threshold	ld_window_size_variants	ld_window_step_variants
-2629479	0.05	953923	9	0.9593491736826596	500	92.05714285714285	99.4	67.6	100.0	True	577846	0.6057574877636874	0.0014983518049120903	0.029825538396835327	0.001288523548282683	0.021853189915418625	0.2	50	5
+total_snps	maf_threshold	site_callrate_min	thin_window_bp	snps_after_maf_filter	n_ecotypes	cophenetic_correlation	n_bootstraps	mean_bootstrap_support	median_bootstrap_support	min_bootstrap_support	max_bootstrap_support
+2629479	0.05	0.8	300	953923	9	0.9563185492744934	500	93.08571428571429	100.0	67.0	100.0
